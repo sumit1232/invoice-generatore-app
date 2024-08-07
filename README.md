@@ -1,0 +1,2 @@
+# invoice-generatore-app
+sales
